@@ -13,6 +13,7 @@ public class Hello {
 ```
 
 ## Hello java Result
+
 ![Screenshot (94)](https://user-images.githubusercontent.com/93571059/161693524-d54333a9-0575-4d6b-8584-19bd304cc4e0.png)
 
 ### Naming 
@@ -26,6 +27,7 @@ public class naming {
 ```
 
 ## Naming Result
+
 ![Screenshot (95)](https://user-images.githubusercontent.com/93571059/161693585-4f7f925d-4c85-4ba2-83da-eca1f01b8727.png)
 
 ### Number 
@@ -55,6 +57,7 @@ public class changingnumb {
  ```
  
  ## Changing Numbers Result
+ 
  ![Screenshot (97)](https://user-images.githubusercontent.com/93571059/161693662-6c37173b-1528-4dac-99b6-04d799ed0baf.png)
 
  ### Final OR Const
@@ -69,21 +72,67 @@ public class changingnumb {
 }
 ```
 
-### Dec Variables 
+### Data Types 
 
 ```syntax
-public class descvariables {
+public class Datatypes {
     public static void main (String args[]){
-        String name = "Kaushik";
-        int age = 18;
-        char gender = 'M';
-        boolean active = true;
-        float rating = 4.5f;
-        System.out.println(name+age+gender+active+rating);
+        String name = "Kaushik";                                    // Integer (whole number)
+        int age = 18;                                              // Floating point number
+        char gender = 'M';                                        // Character
+        boolean active = true;                                   // Boolean
+        float rating = 4.5f;                                    // String
+        System.out.println(name +age +gender +active +rating);
     }
 }
 ```
 
-### Dec Variables Result
+## Data Types Result
+
 ![Screenshot (98)](https://user-images.githubusercontent.com/93571059/161693801-1b458b5f-646a-4755-a2da-cb75a7b2a1ea.png)
 
+
+### Printing variables
+
+```syntax
+public class addingopp {
+    public static void main (String args[]){
+    String firstName = "Kaushik ";
+    String lastName = "Singh";
+    String fullName = firstName + lastName;
+    System.out.println(fullName);
+
+//adding num:
+
+    int x = 5;
+    int y = 6;
+    System.out.println(x + y);
+    
+    }
+}
+```
+
+## Printing Variables Result
+
+![Screenshot (100)](https://user-images.githubusercontent.com/93571059/161819816-5e3d7bc3-a9ea-4c2f-b54a-2304e5d5963b.png)
+
+### Declare Many Variables
+
+```syntax
+public class addingint {
+    public static void main (String args[]){
+        int x = 5;
+        int y = 5;
+        int z = 50;
+        System.out.println(x + y + z);
+    //Can be written simple..
+
+    // int x = 5, y = 6, z = 50;
+    // System.out.println(x + y + z);
+    }
+}
+```
+
+## Declare Many Variables Result
+
+![Screenshot (101)](https://user-images.githubusercontent.com/93571059/161819887-b471fdb7-297b-4a02-9bba-f8e94cbcb911.png)
