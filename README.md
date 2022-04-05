@@ -87,10 +87,18 @@ public class Datatypes {
 }
 ```
 
+### Primitive Data Types
+
+## A primitive data type specifies the size and type of variable values, and it has no additional methods.
+
+## There are eight primitive data types in Java:
+
+![Screenshot (103)](https://user-images.githubusercontent.com/93571059/161821015-42ce7baf-f968-4f99-8cd5-fe4684d2d75f.png)
+
+
 ## Data Types Result
 
-![Screenshot (98)](https://user-images.githubusercontent.com/93571059/161693801-1b458b5f-646a-4755-a2da-cb75a7b2a1ea.png)
-
+![Screenshot (104)](https://user-images.githubusercontent.com/93571059/161821633-f4f35996-201d-42b8-a369-914fa23ab377.png)
 
 ### Printing variables
 
