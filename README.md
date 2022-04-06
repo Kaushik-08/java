@@ -77,11 +77,11 @@ public class changingnumb {
 ```syntax
 public class Datatypes {
     public static void main (String args[]){
-        String name = "Kaushik";                                    // Integer (whole number)
-        int age = 18;                                              // Floating point number
+        String name = "Kaushik";                                    // String
+        int age = 18;                                              // Integer (whole number) 
         char gender = 'M';                                        // Character
         boolean active = true;                                   // Boolean
-        float rating = 4.5f;                                    // String
+        float rating = 4.5f;                                    // Floating point number  
         System.out.println(name +age +gender +active +rating);
     }
 }
